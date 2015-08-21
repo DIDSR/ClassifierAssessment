@@ -10,7 +10,7 @@ This project aims to develop statistical methodology and tools for the assessmen
 
 ## Project 2: Compare Two Correlated C Indices with Right-censored Survival Outcome
 
-Source code in R for our paper below can be downloaded [http://cran.r-project.org/web/packages/compareC/index.html here]
+Source code in R for our paper below can be downloaded here: http://cran.r-project.org/web/packages/compareC/index.html
 
 Kang L, Chen W, Petrick NA and Gallas BD (2015). “Comparing two correlated C indices with right-censored survival outcome: a one-shot nonparametric approach.” Statistics in Medicine, 34(4), pp. 685-703. http://dx.doi.org/10.1002/sim.6370.
 
