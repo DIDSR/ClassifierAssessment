@@ -4,7 +4,7 @@
 
 Kang L, Chen W, Petrick NA and Gallas BD (2015). “Comparing two correlated C indices with right-censored survival outcome: a one-shot nonparametric approach.” Statistics in Medicine, 34(4), pp. 685-703. http://dx.doi.org/10.1002/sim.6370.
 
-Source code in R for our paper below can be downloaded here: http://cran.r-project.org/web/packages/compareC/index.html
+The R package for our paper above can be downloaded here (it includes source code as well as binary packages for various of platforms): http://cran.r-project.org/web/packages/compareC/index.html
 
 Project Description
 
