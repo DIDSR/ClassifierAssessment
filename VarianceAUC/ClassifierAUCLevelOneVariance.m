@@ -6,7 +6,7 @@ function [auc,var_auc]=ClassifierAUCLevelOneVariance(h1,h0)
 %INPUT:
 %
 %h1: [n1x1]. train the classifier with the training set and test it on the
-%     test set, h1c is the testing scores on the actually positive cases
+%     test set, h1 is the testing scores on the actually positive cases
 %h0: [n0x1], test scores on the actually negative cases
 %    
 %OUTPUT:
@@ -17,7 +17,7 @@ function [auc,var_auc]=ClassifierAUCLevelOneVariance(h1,h0)
 %
 %Reference:
 %W. Chen, B. D. Gallas, W. A. Yousef, "Classifier variability: accounting
-%for training and testing," submitted to IEEE Trans PAMI
+%for training and testing," Pattern Recognition Volume 45, Issue 7, July 2012, Pages 2661-2671
 %
 %Weijie Chen 03/30/2011
 %
